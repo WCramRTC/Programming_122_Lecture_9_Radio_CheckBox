@@ -1,0 +1,9 @@
+﻿<Application x:Class="Programming_122_Lecture_9_Radio_CheckBox.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Programming_122_Lecture_9_Radio_CheckBox"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
